@@ -30,7 +30,7 @@ inputs:
     required: false
     default: 'Sync LeetCode submission'
   sync-daily-question:
-    description: 'Sync the daily question with an empty solution if it hasn\'t been solved'
+    description: 'Sync the daily question with an empty solution if it hasn''t been solved'
     required: false
     default: 'false'
   sync-daily-language:

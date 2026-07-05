@@ -1,4 +1,4 @@
-# LeetCode Sync (Custom)
+# LeetCode Sync
 
 GitHub Action for automatically syncing LeetCode submissions to a GitHub repository, with an added feature to automatically fetch and submit the LeetCode daily question boilerplate to your account and repo.
 
